@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71328325086",
+    "project_id": "omanevents-ce8ca",
+    "storage_bucket": "omanevents-ce8ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71328325086:android:23d6a0652b3ef6c3a3914f",
+        "android_client_info": {
+          "package_name": "com.example.omanevent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHaX1QUkwmPPMJhQqNMajh184CwfT3Mws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
